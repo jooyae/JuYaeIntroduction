@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
                 .setSubTitle("OUNCE Android Developer")
                 .setBrief("Sangkum Ballar Freshy JuYae")
                 .setAppIcon(R.id.app_icon)
-                .setAppName("Joo Yae")
+                .setAppName("JuYae README")
                 .addGitHubLink("https://github.com/jooyae")
                 .addInstagramLink("https://www.instagram.com/ju_yae")
                 .addShareAction(R.string.app_name)
